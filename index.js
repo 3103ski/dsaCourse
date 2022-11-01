@@ -1,2 +1,2 @@
 // Run Section 3: Big O Practice file
-require('./bigO');
+require('./courseSections/section3_bigO');
